@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PersonCard">
+        <attr name="likability" format="float" />
+        <attr name="likepieColor" format="color" />
+        <attr name="likedivColor" format="color" />
+        <attr name="photomargin" format="integer" />
+    </declare-styleable>
+
+</resources>
